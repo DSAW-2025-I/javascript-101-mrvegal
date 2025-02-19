@@ -5,7 +5,7 @@
   "main": "solutions.js",
   "devDependencies": {
     "eslint": "^8.56.0",
-    "jest": "*"
+    "jest": "^29.7.0"
   },
   "scripts": {
     "lint": "eslint solutions.js",
@@ -14,4 +14,3 @@
   "author": "",
   "license": "ISC"
 }
-
